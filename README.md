@@ -1,7 +1,5 @@
 # this is a text file
 
-blah blah blah
-
-blah3 blah3 blah3
-
 This is bound to cause trouble!
+
+Another line of text. 01/05/2021 19:32
